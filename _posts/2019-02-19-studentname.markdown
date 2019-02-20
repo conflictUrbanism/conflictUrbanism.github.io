@@ -11,6 +11,8 @@ some student work here in a template
 
 this is a project it has text.
 
+that text might have footnotes [^1] [^1]: this is what is in the footnote. 
+
 it has images: ![images](https://images.jacobinmag.com/2017/09/22161050/Bernie_Sanders_by_Gage_Skidmore.jpg)
 
 it also has [links](https://jacobinmag.com/2019/02/bernie-sanders-presidential-primary-democratic-party)
